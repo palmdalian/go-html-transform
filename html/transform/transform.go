@@ -10,8 +10,8 @@ import (
 
 	"golang.org/x/net/html"
 
-	"go.marzhillstudios.com/pkg/go-html-transform/css/selector"
-	"go.marzhillstudios.com/pkg/go-html-transform/h5"
+	"github.com/palmdalian/go-html-transform/css/selector"
+	"github.com/palmdalian/go-html-transform/h5"
 )
 
 // Collector defines an interface for html node collectors.
